@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "This is 1",
+      "answer": ""
+    },
+    {
+      "question": "Where is Sun",
+      "answer": "Sun is at centre"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "Hi Good morning",
+      "answer": "Good Morning"
+    },
+    {
+      "question": "Hi Good afternoon to all",
+      "answer": "Good afternoon "
+    },
+    {
+      "question": "Give me result of 4+5",
+      "answer": "9"
+    },
+    {
+      "question": "Who invented Gravitational force",
+      "answer": "Newton"
+    },
+    {
+      "question": "Where is Trevi fountain situated",
+      "answer": "Rome"
+    },
+    {
+      "question": "Where is Superga Church located",
+      "answer": "Turin"
+    },
+    {
+      "question": "Hiii",
+      "answer": "You: Hiii\n\n"
+    },
+    {
+      "question": "Hi Sunny",
+      "answer": "Hello Dear"
+    },
+    {
+      "question": "quit",
+      "answer": -1
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "Hii",
+      "answer": "Hii"
+    },
+    {
+      "question": "HI",
+      "answer": "Helllooo"
+    },
+    {
+      "question": "Hii",
+      "answer": "Hellllloooo hhhhh iiiii"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "Hi",
+      "answer": "Hellllooo hhhhiiii"
+    },
+    {
+      "question": "Hi Sunny",
+      "answer": "Hello Dear"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello again"
+    },
+    {
+      "question": "What is the radius of earth",
+      "answer": "Radius is 6400 km"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "Radius is 6400 km",
+      "answer": "Radius is 6400 km"
+    },
+    {
+      "question": "What is the radius of earth",
+      "answer": "Radius is 6400 km"
+    },
+    {
+      "question": "How are you",
+      "answer": "great!"
+    }
+  ]
+}
